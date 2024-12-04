@@ -10,11 +10,9 @@
 
 基于transformer架构的单细胞大模型：
 
-什么是单细胞大模型？
-
 
 --------------
-## What is Deep Graph Clustering?
+## 什么是单细胞大模型？
 
 Deep graph clustering, which aims to reveal the underlying graph structure and divide the nodes into different groups, has attracted intensive attention in recent years. More details can be found in the survey paper. [Link](https://arxiv.org/abs/2211.12875)
 
