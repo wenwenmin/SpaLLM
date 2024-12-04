@@ -33,6 +33,6 @@
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **Large-scale foundation model on single-cell transcriptomics** |   Nature Methods    | [Link](https://doi.org/10.1038/s41592-024-02305-7) |         [Link](https://github.com/biomap-research/scFoundation)                              |
 | 2024 | **scGPT: toward building a foundation model for single-cell multi-omics using generative AI** |   Nature Methods    | [Link](https://doi.org/10.1038/s41592-024-02201-0) |    [Link](https://github.com/bowang-lab/scGPT)                            |
-| 2023 | **Reinforcement Graph Clustering with Unknown Cluster Number (RGC)**              |  ACM MM   |          [Link](https://arxiv.org/pdf/2308.06827)             |         [Link](https://github.com/yueliu1999/RGC)        
+| 2023 | **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data**              |  nature machine intelligence   |          [Link](https://doi.org/10.1038/s42256-022-00534-z)            |         [Link](https://github.com/TencentAILabHealthcare/scBERT)       
 
 
