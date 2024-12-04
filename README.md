@@ -23,5 +23,16 @@
 | Year | Title                                                        |    Venue    |                            Paper                             | Code |
 | ---- | ------------------------------------------------------------ | :---------: | :----------------------------------------------------------: | :--: |
 | 2024 | **Transformers in single-cell omics: a review and new perspectives** |    Nature Methods   | [Link](https://doi.org/10.1038/s41592-024-02353-) |  - |
-|  | ** title ** |        | [Link](https://arxiv.org/abs/2211.12875) |  [Link](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering) |
+
+
+
+
+
+## Mainly Papers of model
+| Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
+| ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **Large-scale foundation model on single-cell transcriptomics** |   ICML    | [Link](https://doi.org/10.1038/s41592-024-02305-7) |         [Link](https://github.com/biomap-research/scFoundation)                              |
+| 2024 | **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k (GCMA)** |   arXiv    | [Link](https://arxiv.org/pdf/2401.04741.pdf) |                              -                               |
+| 2023 | **Reinforcement Graph Clustering with Unknown Cluster Number (RGC)**              |  ACM MM   |          [Link](https://arxiv.org/pdf/2308.06827)             |         [Link](https://github.com/yueliu1999/RGC)        
+
 
