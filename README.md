@@ -31,8 +31,8 @@
 ## Mainly Papers of model
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024 | **Large-scale foundation model on single-cell transcriptomics** |   ICML    | [Link](https://doi.org/10.1038/s41592-024-02305-7) |         [Link](https://github.com/biomap-research/scFoundation)                              |
-| 2024 | **Masked AutoEncoder for Graph Clustering without Pre-defined Cluster Number k (GCMA)** |   arXiv    | [Link](https://arxiv.org/pdf/2401.04741.pdf) |                              -                               |
+| 2024 | **Large-scale foundation model on single-cell transcriptomics** |   Nature Methods    | [Link](https://doi.org/10.1038/s41592-024-02305-7) |         [Link](https://github.com/biomap-research/scFoundation)                              |
+| 2024 | **scGPT: toward building a foundation model for single-cell multi-omics using generative AI** |   Nature Methods    | [Link](https://doi.org/10.1038/s41592-024-02201-0) |    [Link](https://github.com/bowang-lab/scGPT)                            |
 | 2023 | **Reinforcement Graph Clustering with Unknown Cluster Number (RGC)**              |  ACM MM   |          [Link](https://arxiv.org/pdf/2308.06827)             |         [Link](https://github.com/yueliu1999/RGC)        
 
 
