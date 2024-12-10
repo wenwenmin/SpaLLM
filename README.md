@@ -57,3 +57,14 @@
 | 2023 | **Transfer learning enables predictions in network biology** |   Nature    | [Link](https://doi.org/10.1038/s41586-023-06139-9) |         [Link](https://huggingface.co/ctheodoris/Geneformer)   |
 
 
+
+Wenwen Min
+
+CELLama: Foundation Model for Single Cell and Spatial Transcriptomics by Cell Embedding Leveraging Language Model Abilities
+Deep Learning in Single-Cell and Spatial Transcriptomics Data Analysis: Advances and Challenges from a Data Science Perspective
+
+
+
+
+
+
